@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1416424937 source:c:\users\lucas\all c++ programs\idk\catchthecat.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<stdlib.h>
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1442799417 source:c:\users\lucas\all c++ programs\games\catch that cat!\catchthecat\catchthecat.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<stdlib.h>
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1416530809 source:c:\users\lucas\all c++ programs\games\catch that cat!\catchthecat\resource.rc
+
