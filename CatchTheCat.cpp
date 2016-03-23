@@ -8,7 +8,7 @@
 #include <sstream>
 #include <fstream>
 
-/// WILL NOT START CORRECTLY.
+
 #define SCREEN_WIDTH 640
 #define SCREEN_HEIGHT 480
 #define SPRITE_SIZE 32
